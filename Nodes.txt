@@ -1,0 +1,27 @@
+Name	Rank
+Abel	Assoc Prof
+Bharti	Asst Prof
+Bjornstad	Prof
+Boni	Assoc Prof
+Cattadori	Assoc Prof
+Conway	Asst Prof
+Ferrari	Assoc Prof
+Hanks	Assoc Prof
+Hudson	Prof
+Hughes	Assoc Prof
+Kennedy	Asst Prof
+Kirimanjeswara	Assoc Prof
+Lin	Asst Prof
+Lindner	Asst Prof
+Llinas	Prof
+McGraw	Prof
+Miyashiro	Asst Prof
+Rasgon	Prof
+Read	Prof
+Reluga	Assoc Prof
+Schiff	Prof
+Shea	Prof
+Sutton	Asst Prof
+Szpara	Assoc Prof
+Thomas	Prof
+zur Wiesch	Assoc Prof
