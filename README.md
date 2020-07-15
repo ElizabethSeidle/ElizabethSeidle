@@ -1,5 +1,5 @@
 # Portfolio
-
+https://www.linkedin.com/in/elizabeth-seidle/
 
 ## Unsupervised Learning
 
@@ -20,3 +20,5 @@
 
 ## Other Work
 - [Network Data Visualization](Network_Graphic/)
+
+
