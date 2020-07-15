@@ -5,7 +5,7 @@ This project created a network graphic to visualize a group of faculty's collabo
 Different colors of edges represent different types of collabortion between two faculty. The color of the node corresponds to the faculty's position title and tenure. 
 
 ## Outline
-- [Load in data of faculty titles and collaborations](Data/)
+- [Load data of faculty titles and collaborations](Data/)
 - [Run data through python code to convert into a Gephi file](Code/TSVtoGEXF.equalweights.ipynb)
 - [Format Gephi file to be in desired format](PPPID_2019_gephidoc_curved.gephi)
 - [Export final graphic](NetworkGraphic_PPPID_2019_Curved.png)
