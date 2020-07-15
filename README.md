@@ -19,4 +19,4 @@
 ### K-means, K-mediods, etc.
 
 ## Other Work
-- [Network Visualization](\Network Graphic)
+- [Network Visualization](/Network Graphic/)
