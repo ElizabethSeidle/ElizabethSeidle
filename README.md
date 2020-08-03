@@ -19,6 +19,6 @@ https://www.linkedin.com/in/elizabeth-seidle/
 ### K-means, K-mediods, etc.
 
 ## Other Work
-- [Network Data Visualization](Network_Graphic/)
+- [Network Data Visualization](Network_Graphic/README.md)
 
 
