@@ -4,6 +4,12 @@ https://www.linkedin.com/in/elizabeth-seidle/
 ## Unsupervised Learning
 
 ### Clustering
+
+#### K-means
+#### Hierarchical Clustering
+#### DBscan
+#### Gaussian Mixture Model
+
 ### Association Rules
 
 ## Semisupervised Learning
@@ -12,11 +18,18 @@ https://www.linkedin.com/in/elizabeth-seidle/
 
 ## Supervised Learning
 
-### Regression Methods
-### Decision Trees
-### Random Forests
-### Neural Networks
-### K-means, K-mediods, etc.
+### Regression Problems
+#### Linear Regression
+#### Decision Tree
+#### Neural Network
+
+### Classifcation Problems
+#### Naive Bayes
+#### Logistic Regression
+#### Decision Tree
+#### Random Forest 
+#### Support Vector Machine
+#### Neural Network
 
 ## Other Work
 - [Network Data Visualization](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
