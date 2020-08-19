@@ -14,7 +14,8 @@ https://www.linkedin.com/in/elizabeth-seidle/
 
 ## Semisupervised Learning
 
-### Text Classification and Natural Language Processing
+### Text Classification 
+### Natural Language Processing
 
 ## Supervised Learning
 
