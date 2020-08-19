@@ -20,9 +20,9 @@ https://www.linkedin.com/in/elizabeth-seidle/
 ## Supervised Learning
 
 ### Regression Problems
-  #### Linear Regression
-  #### Decision Tree
-  #### Neural Network
+   - #### Linear Regression
+   - #### Decision Tree
+   - #### Neural Network
 
 ### Classifcation Problems
   #### Naive Bayes
