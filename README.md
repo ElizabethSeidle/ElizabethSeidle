@@ -5,10 +5,10 @@ https://www.linkedin.com/in/elizabeth-seidle/
 
 ### Clustering
 
-#### K-means
-#### Hierarchical Clustering
-#### DBscan
-#### Gaussian Mixture Model
+  #### K-means
+  #### Hierarchical Clustering
+  #### DBscan
+  #### Gaussian Mixture Model
 
 ### Association Rules
 
@@ -20,17 +20,17 @@ https://www.linkedin.com/in/elizabeth-seidle/
 ## Supervised Learning
 
 ### Regression Problems
-#### Linear Regression
-#### Decision Tree
-#### Neural Network
+  #### Linear Regression
+  #### Decision Tree
+  #### Neural Network
 
 ### Classifcation Problems
-#### Naive Bayes
-#### Logistic Regression
-#### Decision Tree
-#### Random Forest 
-#### Support Vector Machine
-#### Neural Network
+  #### Naive Bayes
+  #### Logistic Regression
+  #### Decision Tree
+  #### Random Forest 
+  #### Support Vector Machine
+  #### Neural Network
 
 ## Other Work
 - [Network Data Visualization](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
