@@ -1,6 +1,7 @@
 # Portfolio
 https://www.linkedin.com/in/elizabeth-seidle/
 
+# Projects by methods
 ## Unsupervised Learning
 
 ### Clustering
