@@ -1,6 +1,7 @@
 # Portfolio
-https://www.linkedin.com/in/elizabeth-seidle/
-Projects are organized by methodology.
+Projects are organized by methodology.  <br/>
+<br/>
+[LinkedIn Profile](https://www.linkedin.com/in/elizabeth-seidle/)
 
 ## Unsupervised Learning
 
