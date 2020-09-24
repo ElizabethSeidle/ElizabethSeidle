@@ -2,11 +2,7 @@
 
 [LinkedIn Profile](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
 
-## Unsupervised Learning
-
-### Clustering
-
-## Other Work
+## Projects
 - [NLP: LDA and Sentiment Analysis](OtherProjects/COVID_Pubs_Wk_4.ipynb)
 - [Network Data Visualization](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
 - [NYC Tree Census Project, in collaboration with Kyle Foerster](https://github.com/kbfoerster/nyctrees)
