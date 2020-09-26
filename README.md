@@ -7,6 +7,6 @@
 - [Image Classification (Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
 
 ## Resume
-[LinkedIn Profile](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
+[LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
 ![Current Resume (LaTex)](OtherProjects/Latex_Seidle_Resume_2020-1.png)
 <br/>
