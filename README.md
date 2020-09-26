@@ -1,6 +1,6 @@
 # Portfolio
 
-[LinkedIn Profile](https://www.linkedin.com/in/elizabeth-seidle/) 
+[LinkedIn Profile](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
 [Current Resume](OtherProjects/Latex_Seidle_Resume_2020-1.png)
 <br/>
 
