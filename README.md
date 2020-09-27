@@ -8,5 +8,5 @@
 
 ## Resume
 [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
-![Current Resume (LaTex)](OtherProjects/Latex_Seidle_Resume_2020-1.png)
+![Current Resume (LaTex)](OtherProjects/Latex_Seidle_Resume_2020.png)
 <br/>
