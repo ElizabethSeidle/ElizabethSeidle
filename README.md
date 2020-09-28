@@ -3,6 +3,7 @@
 ## Projects
 - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
 - [NLP - Survey Data (Python)](OtherProjects/NLP_workfromhome.ipynb)
+    - Text Cleaning
     - LDA
     - Sentiment Analysis
     - Word Frequencies
@@ -10,6 +11,9 @@
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
+    - Data cleaning
+    - Clustering
+    - Classification
 
 ## Resume
 [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
