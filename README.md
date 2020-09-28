@@ -11,9 +11,9 @@
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
-    - Data cleaning
-    - Clustering
-    - Classification
+    - Data cleaning and kNN data imputation
+    - K-means Clustering
+    - Classification (Logistic Regression, Naive Bayes, Decision Tree, Neural Network)
 
 ## Resume
 [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
