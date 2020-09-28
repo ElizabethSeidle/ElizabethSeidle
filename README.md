@@ -2,7 +2,10 @@
 
 ## Projects
 - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
-- [NLP: LDA and Sentiment Analysis (Python)](OtherProjects/COVID_Pubs_Wk_4.ipynb)
+- [NLP - Survey Data (Python)](OtherProjects/NLP_workfromhome.ipynb)
+    - LDA
+    - Sentiment Analysis
+    - Word Frequencies
 
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
