@@ -6,7 +6,7 @@
     - Text Cleaning
     - LDA
     - Sentiment Analysis
-    - Word Frequencies
+    - Word Frequencies by k-pairings (k=1:3)
 
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
