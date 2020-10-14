@@ -2,14 +2,16 @@
 
 ## Projects
 - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
-- [NLP - Survey Data (Python)](OtherProjects/NLP_workfromhome.ipynb)
+- [NLP - Survey Data (Python)*](OtherProjects/NLP_workfromhome.ipynb)
     - Text Cleaning
     - LDA
     - Sentiment Analysis
     - Word Frequencies by k-pairings (k=1,2,3)
-- [Dashboard Usage Analysis (R)](OtherProjects/Apriori_MBA)
+- [Dashboard Usage Analysis (R)*](OtherProjects/Apriori_MBA)
     - Market Basket Analysis 
     - Visualizations (parrallel coordinates plots, bar plots, network graphics)
+    
+*Data is intentially excluded
 
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
