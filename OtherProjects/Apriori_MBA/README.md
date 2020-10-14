@@ -6,15 +6,15 @@ The Apriori algorithm was applied using the arules package in R to calculate fre
 All commas were removed from dashboard titles. The all rows with the dashboard category categorized as ‘landing pages’ were removed.  There were no duplicates and no missing values in the data. 
 The data frame was processed so that each tuple is a unique combination of ‘Campus.ID’ and ‘Date’. Therefore, each tuple lists the dashboards a user accessed on a particular day. For lists of more than one dashboard, dashboard names are separated by commas.
 
-##Key Terms for Interpretation of Results
+## Key Terms for Interpretation of Results
 
-###Antecedent
+### Antecedent
 The “if” part of the rule. 
-###Consequent
+### Consequent
 The “then” part of the rule.
-###Support
+### Support
 Probability of the antecedent and consequent.
-###Confidence
+### Confidence
 Conditional probability of consequent occurring, given that the antecedent occurred. 
-###Lift
+### Lift
 The ratio of the confidence of the rule and the expected confidence of the rule. The expected confidence of a rule is defined as the product of the support values of the rule body and the rule head divided by the support of the rule body. The expected confidence is identical to the support of the rule head. Note: Only rules with lifts > 1 were included in reports. 
