@@ -11,7 +11,7 @@
     - Market Basket Analysis 
     - Visualizations (parrallel coordinates plots, bar plots, network graphics)
     
-*Data is intentially excluded
+*Data are intentially excluded
 
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
