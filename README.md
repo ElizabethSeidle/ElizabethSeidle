@@ -1,6 +1,6 @@
 # Portfolio
 
-## Projects
+## Personal Projects
 - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
 - [NLP - Survey Data (Python)*](OtherProjects/NLP_workfromhome.ipynb)
     - Text Cleaning
