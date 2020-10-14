@@ -7,6 +7,9 @@
     - LDA
     - Sentiment Analysis
     - Word Frequencies by k-pairings (k=1,2,3)
+- [Dashboard Usage Analysis (R)](OtherProjects/Apriori_MBA)
+    - Market Basket Analysis 
+    - Visualizations (parrallel coordinates plots, bar plots, network graphics)
 
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
