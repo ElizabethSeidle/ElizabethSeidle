@@ -3,8 +3,7 @@
 ## Personal Projects
 - Data Visualizations (snippets from various projects)
     - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
-    - [Interactive visuals and animated GIF (R)*](OtherProjects/Visuals_Students_Dummy_Data.ipynb)
-    - [Animated Conversion Funnel](OtherProjects/funnel_Gif.gif)
+    - [Interactive visuals](OtherProjects/Visuals_Students_Dummy_Data.ipynb) and [animated GIF](OtherProjects/funnel_Gif.gif)(R)*
 - [NLP - Survey Data (Python)*](OtherProjects/NLP_workfromhome.ipynb)
     - Text Cleaning
     - LDA (Unsupervised)
