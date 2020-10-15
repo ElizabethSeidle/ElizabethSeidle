@@ -14,7 +14,7 @@
     - Retention visualizations 
     - [Animated Conversion Funnel](OtherProjects/funnel_Gif.gif)
     
-*Data are intentially excluded
+*Real data are intentially excluded
 
 ## Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
