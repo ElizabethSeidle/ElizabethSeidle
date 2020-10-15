@@ -10,6 +10,9 @@
 - [Dashboard Usage Analysis (R)*](OtherProjects/Apriori_MBA)
     - Market Basket Analysis (Unsupervised)
     - Visualizations (parallel coordinates plots, frequency plots, network graphics)
+- Interactive visuals (R - Plotly, gganimate, etc.)*
+    - Retention visualizations 
+    - [Conversion Funnel Animation](OtherProjects/funnel_Gif.gif)
     
 *Data are intentially excluded
 
