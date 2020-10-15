@@ -12,7 +12,7 @@
     - Visualizations (parallel coordinates plots, frequency plots, network graphics)
 - [Interactive visuals (R - Plotly, gganimate, etc.)*](OtherProjects/Visuals_Students_Dummy_Data.ipynb)
     - Retention visualizations 
-    - [Conversion Funnel Animation](OtherProjects/funnel_Gif.gif)
+    - [Animated Conversion Funnel](OtherProjects/funnel_Gif.gif)
     
 *Data are intentially excluded
 
