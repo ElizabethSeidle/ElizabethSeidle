@@ -4,11 +4,11 @@
 - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
 - [NLP - Survey Data (Python)*](OtherProjects/NLP_workfromhome.ipynb)
     - Text Cleaning
-    - LDA
+    - LDA (Unsupervised model)
     - Sentiment Analysis
     - Word Frequencies by k-pairings (k=1,2,3)
 - [Dashboard Usage Analysis (R)*](OtherProjects/Apriori_MBA)
-    - Market Basket Analysis 
+    - Market Basket Analysis (Unsupervised model)
     - Visualizations (parallel coordinates plots, frequency plots, network graphics)
     
 *Data are intentially excluded
@@ -18,8 +18,8 @@
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
     - Data collection and exploratory data analyses
     - Data cleaning and kNN data imputation
-    - K-means Clustering
-    - Classification models (Logistic Regression, Naive Bayes, Decision Tree, Neural Network)
+    - K-means Clustering (Unsupervised model)
+    - Classification models (Supervised models; Logistic Regression, Naive Bayes, Decision Tree, Neural Network)
     - Model evaluation using LIME
 
 ## Resume
