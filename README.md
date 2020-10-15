@@ -19,7 +19,8 @@
     - Data collection and exploratory data analyses
     - Data cleaning and kNN data imputation
     - K-means Clustering
-    - Classification models and evaluations (Logistic Regression, Naive Bayes, Decision Tree, Neural Network)
+    - Classification models (Logistic Regression, Naive Bayes, Decision Tree, Neural Network)
+    - Model evaluation using LIME
 
 ## Resume
 [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
