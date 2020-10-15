@@ -1,7 +1,10 @@
 # Portfolio
 
 ## Personal Projects
-- [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
+- Data Visualizations (snippets from various projects)
+    - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
+    - [Interactive visuals and animated GIF (R)*](OtherProjects/Visuals_Students_Dummy_Data.ipynb)
+    - [Animated Conversion Funnel](OtherProjects/funnel_Gif.gif)
 - [NLP - Survey Data (Python)*](OtherProjects/NLP_workfromhome.ipynb)
     - Text Cleaning
     - LDA (Unsupervised)
@@ -10,10 +13,7 @@
 - [Dashboard Usage Analysis (R)*](OtherProjects/Apriori_MBA)
     - Market Basket Analysis (Unsupervised)
     - Visualizations (parallel coordinates plots, frequency plots, network graphics)
-- [Interactive visuals (R)*](OtherProjects/Visuals_Students_Dummy_Data.ipynb)
-    - Retention visualizations 
-    - [Animated Conversion Funnel](OtherProjects/funnel_Gif.gif)
-    
+   
 *Real data are intentially excluded
 
 ## Collaborative Projects
