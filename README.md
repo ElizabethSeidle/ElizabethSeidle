@@ -19,7 +19,8 @@
     - Data collection and exploratory data analyses
     - Data cleaning and kNN data imputation
     - K-means Clustering (Unsupervised)
-    - Classification models (Supervised; Logistic Regression, Naive Bayes, Decision Tree, Neural Network)
+    - Classification models (Supervised)
+        -- Logistic Regression, Naive Bayes, Decision Tree, Neural Network
     - Model evaluation using LIME
 
 ## Resume
