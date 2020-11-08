@@ -16,7 +16,6 @@
 *Real data are intentially excluded
 
 ## Sample of Collaborative Projects
-- [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
     - Data collection and exploratory data analyses
     - Data cleaning and kNN data imputation
