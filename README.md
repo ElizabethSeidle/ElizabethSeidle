@@ -17,12 +17,13 @@
 
 ## Sample of Collaborative Projects
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
-    - Data collection and exploratory data analyses
-    - Data cleaning and kNN data imputation
-    - K-means Clustering (Unsupervised)
-    - Classification models (Supervised)
-        -- Logistic Regression, Naive Bayes, Decision Tree, Neural Network
-    - Model evaluation using LIME
+    - My main contributions:
+        - Data collection and exploratory data analyses
+        - Data cleaning and kNN data imputation
+        - K-means Clustering (Unsupervised)
+        - Classification models (Supervised)
+            -- Logistic Regression, Naive Bayes, Decision Tree, Neural Network
+        - Model evaluation using LIME
 
 ## Resume
 [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
