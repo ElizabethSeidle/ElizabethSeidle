@@ -1,6 +1,6 @@
 # Portfolio
 
-## Personal Projects
+## Sample of Personal Projects
 - Data Visualizations (snippets from various projects)
     - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
     - Student conversion and retention: [Interactive visuals](OtherProjects/Visuals_Students_Dummy_Data.ipynb) and [animated GIF](OtherProjects/funnel_Gif.gif) (R)*
@@ -15,7 +15,7 @@
    
 *Real data are intentially excluded
 
-## Collaborative Projects
+## Sample of Collaborative Projects
 - [Image Classification (Python/Tensorflow)](https://github.com/kbfoerster/GroceryFeathersClassification)
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
     - Data collection and exploratory data analyses
