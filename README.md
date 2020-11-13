@@ -22,8 +22,8 @@
         - Data cleaning and kNN data imputation
         - K-means Clustering (Unsupervised) and elbow method evaluation
         - Classification models (Supervised)
-            -- Logistic Regression, Naive Bayes, Decision Tree, Neural Network
-            -- Model evaluation using LIME
+            - Logistic Regression, Naive Bayes, Decision Tree, Neural Network
+            - Model evaluation using LIME
 
 ## Resume
 [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
