@@ -18,7 +18,3 @@ Probability of the antecedent and consequent.
 Conditional probability of consequent occurring, given that the antecedent occurred. 
 ### Lift
 The ratio of the confidence of the rule and the expected confidence of the rule. The expected confidence of a rule is defined as the product of the support values of the rule body and the rule head divided by the support of the rule body. The expected confidence is identical to the support of the rule head. Note: Only rules with lifts > 1 were included in reports. 
-
-
-#Test
-[visual](https://heavyusers_rules_network.html)
