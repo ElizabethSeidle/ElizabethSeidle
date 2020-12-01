@@ -17,9 +17,8 @@
         - [Interactive plotly visuals](https://github.com/ElizabethSeidle/CORD-19_Project/tree/master/Code/Visuals)
  
 ## Sample of Personal Projects
-- Data Visualizations (snippets from various projects)
-    - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
-    - Student conversion and retention: [Interactive visuals](OtherProjects/Visuals_Students_Dummy_Data.ipynb) and [animated GIF](OtherProjects/funnel_Gif.gif) (R)*
+- [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
+- Student conversion and retention: [Interactive visuals](OtherProjects/Visuals_Students_Dummy_Data.ipynb) and [animated GIF](OtherProjects/funnel_Gif.gif) (R)*
 - [NLP - Survey Data (Python)*](OtherProjects/NLP_workfromhome.ipynb)
     - Text Cleaning
     - LDA (Unsupervised)
