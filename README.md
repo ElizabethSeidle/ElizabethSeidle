@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Portfolio
 
-*A collection of samples from my independent and collaboartive projects.
+*A collection of samples from my independent and collaboartive projects.*
 
 **Main Tools**
 - R (Plotly, ggplot2, dplyr, tidyr, caret, gganimate, rpart, data.table, reticulate, e1071)
