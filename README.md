@@ -24,7 +24,13 @@
         - Classification models (Supervised)
             - Logistic Regression, Naive Bayes, Decision Tree, Neural Network
             - Model evaluation using LIME
-
+ - [COVID-19 Research Articles - NLP Project (R and Python)](https://github.com/ElizabethSeidle/CORD-19_Project)
+     - My main contributions:
+        - Exploratory data analyses
+        - Data cleaning and text preprocessing
+        - Text classification algorithms: LDA and sentiment analysis code
+        - [Interactive plotly visuals](https://github.com/ElizabethSeidle/CORD-19_Project/tree/master/Code/Visuals)
+ 
 ## Resume
 [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
 [Current Resume (LaTex)](OtherProjects/Latex_Seidle_Resume_2020.pdf)
