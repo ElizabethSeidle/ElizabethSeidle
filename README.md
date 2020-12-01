@@ -3,8 +3,8 @@
 *A collection of samples from my independent and collaboartive projects.
 
 **Main Tools**
-- **R (Plotly, ggplot2, dplyr, tidyr, caret, gganimate, rpart, data.table, reticulate, e1071)
-- **Python (NumPy, Pandas, scikit-learn, Seaborn, Matplotlib, Plotly, Pymongo, NLTK, Gensim, Textblob)
+- R (Plotly, ggplot2, dplyr, tidyr, caret, gganimate, rpart, data.table, reticulate, e1071)
+- Python (NumPy, Pandas, scikit-learn, Seaborn, Matplotlib, Plotly, Pymongo, NLTK, Gensim, Textblob)
 
 ## Sample of Collaborative Projects
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
