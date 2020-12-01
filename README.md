@@ -1,4 +1,10 @@
-# Portfolio
+# Data Science and Machine Learning Portfolio
+
+A collection of samples from my independent and collaboartive projects.
+
+Main Tools
+- R (Plotly, ggplot2, dplyr, tidyr, caret, gganimate, rpart, data.table, reticulate, e1071)
+- Python (NumPy, Pandas, scikit-learn, Seaborn, Matplotlib, Plotly, Pymongo, NLTK, Gensim, Textblob)
 
 ## Sample of Collaborative Projects
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
@@ -30,7 +36,7 @@
    
 *Real data are intentially excluded
 
-## Resume
-[LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
+## Resume and Contact
+Feel free to message me via [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
 [Current Resume (LaTex)](OtherProjects/Latex_Seidle_Resume_2020.pdf)
 <br/>
