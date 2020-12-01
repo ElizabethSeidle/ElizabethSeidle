@@ -37,6 +37,6 @@
 *Real data are intentially excluded
 
 ## Resume and Contact
-Feel free to message me via [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
 [Current Resume (LaTex)](OtherProjects/Latex_Seidle_Resume_2020.pdf)
 <br/>
