@@ -21,6 +21,10 @@
         - Data cleaning and text preprocessing
         - Text classification algorithms: LDA and sentiment analysis code
         - [Interactive plotly visuals](https://github.com/ElizabethSeidle/CORD-19_Project/tree/master/Code/Visuals)
+     - Resuling publication (co-first author):
+        - Dornick, C., Kumar, A., Seidenberg, S. Seidle, E., & Mukherjee, P. (2021) Analysis of Patterns and Trends in COVID-19             Research Procedia Computer Science (Pending publication)
+Natural Language Processing
+
  
 ## Sample of Personal Projects
 - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
