@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Portfolio
+# Data Science Portfolio
 
 *A collection of samples from my independent and collaboartive projects.*
 
