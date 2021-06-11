@@ -22,7 +22,8 @@
         - Text classification algorithms: LDA and sentiment analysis code
         - [Interactive plotly visuals](https://github.com/ElizabethSeidle/CORD-19_Project/tree/master/Code/Visuals)
      - Resuling publication (co-first author):
-        - Dornick, C., Kumar, A., Seidenberger, S. Seidle, E., & Mukherjee, P. (2021) Analysis of Patterns and Trends in COVID-19 Research,  Procedia Computer Science, 185, 302-310. https://doi.org/10.1016/j.procs.2021.05.032
+        - Dornick, C., Kumar, A., Seidenberger, S. Seidle, E., & Mukherjee, P. (2021) Analysis of Patterns and Trends in COVID-19 Research,  Procedia Computer Science, 185, 302-310. https://doi.org/10.1016/j.procs.2021.05.032 (OtherProjects/Dornick et al., 2021.pdf)
+
 ## Sample of Personal Projects
 - [Network Data Visualization (Python and Gephi)](https://github.com/ElizabethSeidle/Portfolio/tree/master/Network%20Graphic)
 - Student conversion and retention: [Interactive visuals](OtherProjects/Visuals_Students_Dummy_Data.ipynb) and [animated GIF](OtherProjects/funnel_Gif.gif) (R)*
