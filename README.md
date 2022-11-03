@@ -40,5 +40,5 @@
 
 ## Resume and Contact
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
-[Current Resume (LaTex)](OtherProjects/Latex_Seidle_Resume_2021.pdf)
+[Current Resume](OtherProjects/Seidle_Resume_2022.pdf)
 <br/>
