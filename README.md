@@ -3,8 +3,13 @@
 *A collection of samples from my independent and collaboartive projects.*
 
 **Main Tools**
-- R (Plotly, ggplot2, dplyr, tidyr, caret, gganimate, rpart, data.table, reticulate, e1071)
-- Python (NumPy, Pandas, scikit-learn, Seaborn, Matplotlib, Plotly, Pymongo, NLTK, Gensim, Textblob)
+- Python (NumPy, polars, Pandas, scikit-learn, Seaborn, Matplotlib, Plotly, Pymongo, NLTK, Gensim, Textblob)
+- R (plumbr, plotly, ggplot2, dplyr, tidyr, caret, gganimate, rpart, data.table, reticulate, e1071)
+- SQL (e.g., BigQuery, SQLite)
+  
+## Resume and Contact
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
+[Current Resume](OtherProjects/Seidle_Resume_2024.pdf)
 
 ## Sample of Collaborative Projects
 - [NYC Tree Census Project (R and Python)](https://github.com/kbfoerster/nyctrees)
@@ -37,8 +42,4 @@
     - Visualizations (parallel coordinates plots, frequency plots, network graphics)
    
 *Real data are intentially excluded
-
-## Resume and Contact
-Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/elizabeth-seidle/) <br/>
-[Current Resume](OtherProjects/Seidle_Resume_2022.pdf)
 <br/>
